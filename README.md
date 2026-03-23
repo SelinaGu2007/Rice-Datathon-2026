@@ -1,5 +1,9 @@
 # 2026 Rice Datathon — Redefining “Local” in the X-Minute City
 
+Tech Stack: Python, pandas, NumPy, scikit-learn, LightGBM, matplotlib
+
+Predict RevPAR growth and analyze how the meaning of “local” amenities shifted pre- vs post-COVID across 10/15/30-minute trade areas.
+
 This repository contains our end-to-end, deterministic pipeline for:
 1) predicting RevPAR growth (RMSE metric), and  
 2) extracting interpretable evidence on how the drivers of outperformance shift **pre-COVID vs post-COVID** under different notions of “local”.
