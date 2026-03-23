@@ -1,0 +1,17 @@
+feature,importance_gain,importance_gain_norm
+numunits,2763.013092,0.203955719
+areaperunit,2269.41578,0.167520136
+yearbuilt,1927.263155,0.142263656
+family_support_score,1379.695123,0.101844147
+lifestyle_score,1005.970897,0.074257165
+daily_needs_score,755.2965905,0.055753286
+year_renov,686.8517469,0.050700933
+ownrent_avg_rent,555.8064157,0.041027637
+supply_growth_pct,485.4889045,0.03583705
+supply_baseline_units,398.9983867,0.02945263
+daily_needs_score_equal,334.4702911,0.024689398
+supply_new_units,278.3868537,0.020549519
+ownrent_spread_pct,248.8273772,0.018367545
+ownrent_spread_abs,226.6873616,0.016733248
+ownrent_avg_mortgage,205.2941737,0.01515408
+drivetime_min,25.65623319,0.001893851
